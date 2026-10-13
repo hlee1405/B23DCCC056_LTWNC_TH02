@@ -1,0 +1,6 @@
+{
+  "name": "Student Deadline Tracker",
+  "description": "Ứng dụng quản lý và theo dõi hạn nộp bài tập cá nhân dành cho sinh viên với Redux Toolkit, TypeScript nâng cao và React Design Patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
